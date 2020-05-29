@@ -1,0 +1,20 @@
+1-  Ordenar.
+2-  Recoger cosas del suelo.
+3-  Buscar la escoba.
+5-  Sacudir la escoba.
+6-  Barrer en la casa.
+7-  Apuñar la basura.
+8-  Buscar la pala.
+9-  Buscar basurero.
+10- El basurero esta lleno (si esta lleno cambiar bolsa).
+11- Recoger basura.
+12- Mover el basurero.
+13- Buscar trapeadores.
+14- Los trapeadores estan limpios(si no lavarlos).
+15- Poner trapeador en el palo de la escoba.
+16- Preparar desinfectante(si no hay usar rinzo y lejia).
+17- trapear el piso.
+18- Lavar trapeador.
+19- trapear con trapeador seco.
+20- lavar trapeador seco.
+21- poner a secar trapeadores lavados.
